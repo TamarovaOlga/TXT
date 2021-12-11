@@ -1,1 +1,29 @@
+Summary:
+   the registration page does not have a password display button 
+Project:
+    X
+ID:
+    123
+Component:
+    user registration form
+Version:
+    1.0
+Severity:
+    minor
+Status:
+    new
+Author:
+    Tamarova Olga
+Assigned to:
+    Vadim Ksendzov
+Environment:
+    Windows 10 Google chrom version 96.0.4664.45
+Step1:
+    open registration form
+Step2:
+    enter password
+Actual result:
+    does not show password
+Expectedr esult:
+    show password
 
