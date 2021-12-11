@@ -1,0 +1,23 @@
+Understanding software testing and development processes
+Understanding the basics of testing
+Skills of client-server architecture
+Skills of HTTP methods of requests to the server and the structure of HTTP requests and responses
+Skills of JSON, XML and their structure
+API testing skills via Postman
+Removing and reading logs from an external server
+Sniffing http web traffic through Charles and Fiddler
+Skills of Dev Tools web browsers
+Skills of what a VPN is and how it works and what it is used for
+Mobile testing skills
+Skills of features of iOS Android guidelines
+Skills of building Android applications on Android Studio
+ADB skills
+Skill of setting up proxy and vpn on iOS and Android
+Mobile traffic sniffing skills via Charles and Fiddler on iOS and Android
+Skills of the Linux command line (terminal)
+Skills of the basics of bash scripting
+Skills of the basics of SQL
+Skills of Postgres database and non-relational Redis database
+Jmeter Load Testing Skill
+Skills of Scrum development methodology
+Skills of Python basics
