@@ -17,13 +17,13 @@ Author:
 Assigned to:
     Vadim Ksendzov
 Environment:
-    Windows 10 Google chrom version 96.0.4664.45
+    Windows 10, Google chrom, version 96.0.4664.45
 Step1:
     open registration form
 Step2:
     enter password
 Actual result:
     does not show password
-Expectedr esult:
+Expected result:
     show password
 
